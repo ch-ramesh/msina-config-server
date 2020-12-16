@@ -1,0 +1,2 @@
+# msina-config-server
+ 
